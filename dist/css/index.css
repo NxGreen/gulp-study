@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, sans-serif;
+  color: #333;
+  background-color: #fff; }
+
+.box-border {
+  border: 1px solid red;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.box-transform {
+  transform: translateY(20px) rotate(45deg); }

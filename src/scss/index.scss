@@ -1,0 +1,27 @@
+
+$fontStack:    Helvetica, sans-serif;
+$primaryColor: #333;
+$bgColor: #fff;
+
+body {
+  font-family: $fontStack;
+  color: $primaryColor;
+  background-color: $bgColor;
+}
+
+
+@mixin box-sizing ($sizing) {
+    -webkit-box-sizing:$sizing;     
+       -moz-box-sizing:$sizing;
+            box-sizing:$sizing;
+}
+.box-border{
+    border:1px solid red;
+    @include box-sizing(border-box);
+}
+
+
+//测试css添加前缀
+.box-transform{
+	transform: translateY(20px) rotate(45deg);
+}
