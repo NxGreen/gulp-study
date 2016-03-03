@@ -1,8 +1,8 @@
 {
   "name": "gulp-study",
   "version": "1.0.0",
-  "description": "学习使用gulp",
-  "main": "index.js",
+  "description": "学习使用gulp构建一个静态页面",
+  "main": "gulpfile.js",
   "dependencies": {
     "gulp-concat": "^2.6.0",
     "gulp-uglify": "^1.5.3"
@@ -25,6 +25,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NxGreen/gulp-study.git"
+  },
+  "keywords": [
+    "gulp-study",
+    "gulp学习"
+  ],
+  "author": "pengjia",
   "license": "ISC"
 }
