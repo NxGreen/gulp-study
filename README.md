@@ -15,7 +15,7 @@
 gulp-study/
 ├── dist            //gulp生成的目录
 ├── src             //开发目录
-│   ├── css         
+│   ├── css        
 │   ├── font
 │   ├── images
 │   ├── js
@@ -25,6 +25,7 @@ gulp-study/
 └── package.json  
 
 ![我的目录示例](https://github.com/NxGreen/gulp-study/blob/master/src/images/gulp_dir.png?raw=true)
+
 
 
 ###**使用**
