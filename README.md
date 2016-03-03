@@ -12,17 +12,17 @@
 
 
 ###**项目目录**
-gulp-study/
-├── dist            //gulp生成的目录
-├── src             //开发目录
-│   ├── css        
-│   ├── font
-│   ├── images
-│   ├── js
-│   │   └── libs
-│   └── scss
-├── gulpfile.js     //gulp配置文件
-└── package.json  
+gulp-study/ </br>
+├── dist            //gulp生成的目录</br>
+├── src             //开发目录</br>
+│   ├── css         </br>
+│   ├── font		</br>
+│   ├── images		</br>
+│   ├── js			</br>
+│   │   └── libs	</br>
+│   └── scss		</br>
+├── gulpfile.js     //gulp配置文件</br>
+└── package.json  	</br>
 
 ![我的目录示例](https://github.com/NxGreen/gulp-study/blob/master/src/images/gulp_dir.png?raw=true)
 
